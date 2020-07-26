@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Ayşe Sönmez",
+      "salary": "3000",
+      "department": "tekniker",
+      "id": "uniqid-2"
+    },
+    {
+      "name": "Mehmet Kaya",
+      "salary": "5000",
+      "department": "Polis",
+      "id": "_BJw5Ks"
+    }
+  ]
+}
